@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @jlbturbo
-- 👀 I’m interested in software development on linux and windows. 
-- 🌱 I’m currently learning c# and bash.
+- 👋 Hi, I’m Joshua Beighton
+- I am a first year computer science student at the university of St Andrews, studying Java and Bash.
