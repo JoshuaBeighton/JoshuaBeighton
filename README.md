@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Joshua Beighton
-- I am a first year computer science student at the university of St Andrews, studying Java and Bash.
+- I am a second year computer science student at the university of St Andrews, studying JavaScript, HTML, CSS and Java!
